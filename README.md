@@ -25,6 +25,7 @@ cd Projects
 📬 Contact
 
 👤 Sohom Ghosh
+
 GitHub: @sohom700
 
 LinkedIn:https://www.linkedin.com/in/sohomghosh202711/
