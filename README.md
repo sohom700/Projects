@@ -19,8 +19,8 @@ This repo contains all my personal and learning projects — from simple experim
 Clone the repository:  
 
 ```bash
-git clone git@github.com:sohom700/Projects.git
 cd Projects
+git clone git@github.com:sohom700/Projects.git
 ```
 📬 Contact
 
